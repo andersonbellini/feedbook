@@ -1,4 +1,4 @@
-# Desafio 1
+# Feed Book
 
 Estrutura usando ReactJS com Babel, Webpack e Webpack Dev Server, com as ferramentas ESLint, EditorConfig e Prettier durante o desenvolvimento desse projeto.
 
